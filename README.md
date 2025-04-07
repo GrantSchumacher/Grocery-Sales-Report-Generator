@@ -56,9 +56,12 @@ python3 GrocerySalesReport.py
 ```
 
 This will:
+
+```bash
 	- Read the data from data/Sales and Credits by Store.csv
 	- Process the data
 	- Output a sales_report.pdf with the analysis.
+```
 
 
 
