@@ -1,7 +1,7 @@
 # Grocery Sales Report Generator
 
 ## Description
-This script generates a report with both numerical and visual insights into bagged whole bean coffee sales, helping with business decision-making for the local coffee roaster I work for.
+This script generates a report with both numerical and visual insights into bagged whole bean coffee sales in grocery stores (such as King Soopers, Wholefoods, Safeway, etc.), helping with business decision-making for the local coffee roaster I work for.
 
 I created this script to apply the knowledge I gained from the Udemy course "Python A-Z: Python for Data Science" by Kirill Eremenko, focusing on Pandas, Matplotlib, and Seaborn to a real world challenge. The script is designed to analyze sales data and report insights and visualizations based on the sales reports provided by the coffee roaster's grocery store distributor. The data is downloaded as a CSV file through the distributor’s portal and is not shared with the public - therefore, to run the program, use the provided sales data file, “Sales and Credits by Store.csv.”.
 
