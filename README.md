@@ -1,4 +1,4 @@
-# Grocery-Sales-Report-Generator
+# Grocery Sales Report Generator
 
 ## Description
 I created this script as a project to apply the knowledge pandas, matplotlib, and seaborn I gained from the Udemy course “Python A-Z: Python for Data Science” by Kirill Eremenko. The script is designed to analyze and report sales data from Corvus Coffee Roasters, based on the sales reports provided by their grocery distributor, Whisha. The data is downloaded as a CSV file through the distributor’s portal. To run the program, use the provided sample file, “Sales and Credits by Store.csv.” This project utilizes Pandas, Seaborn, 
