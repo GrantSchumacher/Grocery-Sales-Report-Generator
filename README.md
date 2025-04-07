@@ -36,6 +36,7 @@ You can install all dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+```
 
 The following CSV file is needed to run the project:
 
@@ -49,11 +50,12 @@ To run the script and generate the sales report:
 
 ```bash
 python3 GrocerySalesReport.py
+```
 
 This will:
 	- Read the data from data/Sales and Credits by Store.csv
-	-	Process the data
-	-	Output a sales_report.pdf with the analysis.
+	- Process the data
+	- Output a sales_report.pdf with the analysis.
 
 
 
