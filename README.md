@@ -20,11 +20,12 @@ This project is structured as follows:
 ```bash
 ├── data/
 │   └── Sales and Credits by Store.csv      # Example CSV data file for generating reports
-├── GrocerySalesReport.py                 # Main script for generating the sales report
-├── requirements.txt        # Required Python packages
-├── report.pdf              # Generated sales report (example output)
-├── visualizations.pdf      # Generated visualizations (example output)
-└── README.md               # Project documentation
+├── GrocerySalesReport.py                   # Main script for generating the sales report
+├── .gitignore                              # Ignore virtual environment 
+├── requirements.txt                        # Required Python packages
+├── report.pdf                              # Generated sales report (example output)
+├── visualizations.pdf                      # Generated visualizations (example output)
+└── README.md                               # Project documentation
 ```
 
 ## Requirements
