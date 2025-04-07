@@ -44,7 +44,7 @@ import re
 from PyPDF2 import PdfMerger
 
 
-file_name = "Sales and Credits by Store.csv"
+file_name = "Data/Sales and Credits by Store.csv"
 
 #Takes a file path for the Whisha Tableau Sales and Credits by Store Tableau CSV report and returns a cleaned data frame without total columns or rows
 def load_data(file_path):
