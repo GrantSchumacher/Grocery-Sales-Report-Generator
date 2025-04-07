@@ -16,6 +16,8 @@ The script performs several tasks:
 
 ## Project Structure
 This project is structured as follows:
+
+```bash
 ├── data/
 │   └── Sales and Credits by Store.csv      # Example CSV data file for generating reports
 ├── GrocerySalesReport.py                 # Main script for generating the sales report
@@ -23,6 +25,7 @@ This project is structured as follows:
 ├── report.pdf              # Generated sales report (example output)
 ├── visualizations.pdf      # Generated visualizations (example output)
 └── README.md               # Project documentation
+```
 
 ## Requirements
 The following Python packages are required to run this project:
